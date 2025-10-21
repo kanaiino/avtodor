@@ -15,7 +15,7 @@ if (!isset($_SESSION['user_id']) && isset($_COOKIE['user_id'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Свердловскавтодор</title>
+    <title>Контакты — Свердловскавтодор</title>
     <link rel="shortcut icon" href="media/img/icon.png" />
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/header.css">
@@ -234,7 +234,7 @@ if (!isset($_SESSION['user_id']) && isset($_COOKIE['user_id'])) {
                 </div>
                 <div class="item">
                     <div class="title element-animation">
-                        <h3>Туринское ДРСУ</h3>
+                        <h3>Проектный институт</h3>
                     </div>
                     <div class="items-wrap element-animation delay">
                         <div class="lside">
